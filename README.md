@@ -13,5 +13,6 @@ Wiki -> https://github.com/purpledroid-gsilovertr/android_device_samsung_a34x/wi
 ```
 
 ## Device picture :
+![uk-feature--nbsp-535769884](https://github.com/user-attachments/assets/71be8f24-4a1d-496f-8fb2-9e9e4937ec88)
 
-![Untitled](https://github.com/user-attachments/assets/a2b30b62-2c2c-4baa-913b-7b0d6fdd9724)
+
