@@ -1,4 +1,7 @@
 # Android device tree for samsung SM-A346E (a34x)
+Releases of OrangeFox or other -> https://github.com/purpledroid-gsilovertr/android_device_samsung_a34x/releases
+Wiki -> https://github.com/purpledroid-gsilovertr/android_device_samsung_a34x/wiki
+
 
 ```
 #
@@ -7,8 +10,6 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 ```
-
-Check out wiki for tutorial for building
 
 ## Device picture :
 
