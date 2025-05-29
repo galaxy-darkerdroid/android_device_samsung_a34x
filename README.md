@@ -1,4 +1,6 @@
 # Android device tree for samsung SM-A346E (a34x)
+[![OrangeFox - Build](https://github.com/galaxy-darkerdroid/OrangeFox-Action-Builder/actions/workflows/OrangeFox-Compile.yml/badge.svg)](https://github.com/galaxy-darkerdroid/OrangeFox-Action-Builder/actions/workflows/OrangeFox-Compile.yml)
+
 Releases of OrangeFox or other -> https://github.com/purpledroid-gsilovertr/android_device_samsung_a34x/releases
 
 Wiki/Tutorials -> https://github.com/purpledroid-gsilovertr/android_device_samsung_a34x/wiki
